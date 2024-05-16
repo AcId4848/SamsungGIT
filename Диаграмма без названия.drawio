@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T14:37:42.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="YYjbgWK3QgGwUY9kJc1Y" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-16T00:36:11.324Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="qv7-iip7Jg1L7DM1RvGw" version="24.4.0" type="github">
   <diagram name="Страница — 1" id="M9xCnpS0xsGaigTrREdY">
-    <mxGraphModel dx="4841" dy="1738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2360" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -253,25 +253,25 @@
           <mxGeometry x="1595" y="112.5" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pfNWvsB-766Iec26Grvq-84" value="&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;com.example.mediaplayer.utils&lt;/div&gt;&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1912.5" y="238.75" width="190" height="172.5" as="geometry" />
+          <mxGeometry x="1320" y="607.5" width="190" height="172.5" as="geometry" />
         </mxCell>
         <mxCell id="pfNWvsB-766Iec26Grvq-85" value="&lt;b&gt;PlaybackListener&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1942.5" y="271.25" width="110" height="50" as="geometry" />
+          <mxGeometry x="1330" y="645" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pfNWvsB-766Iec26Grvq-87" value="&lt;b&gt;PlaybackSubThread&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1942.5" y="338.25" width="125" height="50" as="geometry" />
+          <mxGeometry x="1330" y="705.5" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pfNWvsB-766Iec26Grvq-89" value="&lt;div align=&quot;left&quot;&gt;com.example.mediaplayer.services&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1510" y="410" width="330" height="245.5" as="geometry" />
+          <mxGeometry x="1520" y="364.5" width="330" height="245.5" as="geometry" />
         </mxCell>
         <mxCell id="pfNWvsB-766Iec26Grvq-90" value="&lt;b&gt;MediaSessionListener&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="455.5" width="130" height="50" as="geometry" />
+          <mxGeometry x="1550" y="425" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pfNWvsB-766Iec26Grvq-91" value="&lt;b&gt;MediaPlayerBroadcastHelper&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="583" width="170" height="50" as="geometry" />
+          <mxGeometry x="1550" y="535" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pfNWvsB-766Iec26Grvq-92" value="&lt;b&gt;MediaPlayerService&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1690" y="503" width="140" height="50" as="geometry" />
+          <mxGeometry x="1700" y="455" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pfNWvsB-766Iec26Grvq-93" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pfNWvsB-766Iec26Grvq-91" target="pfNWvsB-766Iec26Grvq-92">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -306,7 +306,7 @@
         <mxCell id="pfNWvsB-766Iec26Grvq-101" value="&lt;b&gt;MediaNotificationManager&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1915" y="450" width="165" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pfNWvsB-766Iec26Grvq-102" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pfNWvsB-766Iec26Grvq-101">
+        <mxCell id="pfNWvsB-766Iec26Grvq-102" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pfNWvsB-766Iec26Grvq-101" target="pfNWvsB-766Iec26Grvq-92">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1795" y="590" as="sourcePoint" />
             <mxPoint x="1830" y="530" as="targetPoint" />
@@ -350,6 +350,24 @@
         </mxCell>
         <mxCell id="pfNWvsB-766Iec26Grvq-112" value="«utility»&lt;br&gt;&lt;b&gt;IntentFields&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1340" y="275" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pfNWvsB-766Iec26Grvq-114" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pfNWvsB-766Iec26Grvq-104" target="pfNWvsB-766Iec26Grvq-105">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1520" y="420" as="sourcePoint" />
+            <mxPoint x="1680" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pfNWvsB-766Iec26Grvq-115" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pfNWvsB-766Iec26Grvq-109" target="pfNWvsB-766Iec26Grvq-85">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1830" y="530" as="sourcePoint" />
+            <mxPoint x="1925" y="613" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pfNWvsB-766Iec26Grvq-116" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pfNWvsB-766Iec26Grvq-109" target="pfNWvsB-766Iec26Grvq-87">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1998" y="730" as="sourcePoint" />
+            <mxPoint x="2063" y="306" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
