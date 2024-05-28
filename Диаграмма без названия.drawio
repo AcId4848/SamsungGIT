@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-26T08:37:47.769Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="dln-wPgI9u7pacPOvsxm" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-28T01:07:38.588Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="nbDgbEeBGnrH-7bWv9lt" version="24.4.8" type="github">
   <diagram name="Страница — 1" id="M9xCnpS0xsGaigTrREdY">
-    <mxGraphModel dx="5328" dy="1821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5264" dy="1935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -699,10 +699,10 @@
         <mxCell id="sxpi-W0vzZydZcFEwbdQ-65" value="FragmentLibrary" style="html=1;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-3746" y="1640.87" width="110" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="sxpi-W0vzZydZcFEwbdQ-66" value="&lt;b&gt;MediaPlayerThread&lt;/b&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="sxpi-W0vzZydZcFEwbdQ-66" value="&lt;b&gt;MediaPlayerManager&lt;/b&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-3756" y="1740" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sxpi-W0vzZydZcFEwbdQ-67" value="&lt;div&gt;&lt;b&gt;UIThread&lt;/b&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="sxpi-W0vzZydZcFEwbdQ-67" value="&lt;div&gt;&lt;b&gt;UIManager&lt;/b&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-3756" y="1800" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sxpi-W0vzZydZcFEwbdQ-69" value="&lt;div&gt;BaseViewHelper&lt;/div&gt;" style="html=1;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
@@ -906,7 +906,7 @@
         <mxCell id="8OhfMafjvTN37_p0W7lX-17" value="&lt;b&gt;PlaybackListener&lt;/b&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2740" y="645" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8OhfMafjvTN37_p0W7lX-18" value="&lt;b&gt;PlaybackSubThread&lt;/b&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="8OhfMafjvTN37_p0W7lX-18" value="&lt;b&gt;PlaybackThread&lt;/b&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2725" y="705.5" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8OhfMafjvTN37_p0W7lX-20" value="&lt;b&gt;MediaSessionListener&lt;/b&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
